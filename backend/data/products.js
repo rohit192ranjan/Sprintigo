@@ -1,0 +1,148 @@
+const products = [
+  {
+    name: 'Nike Juniper Trail 2',
+    image: '/images/Nikejuniper.png',
+    description:
+      'Break away from the norm and dash up that tempting trail in the Nike Juniper Trail 2. Durable material on the top and tough traction on the bottom give you a consistent, confident ride for those off-road runs calling your name.',
+    brand: 'NIKE',
+    category: 'Shoes',
+    price: 1299.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    name: 'Football Ball Match Size 5 FIFA Pro F900',
+    image: '/images/football.png',
+    description:
+      'We have made the F900 to FIFA Quality Pro standards for your training sessions and competitions by using thermobonding: there are no seams, giving a great feel. Laminated bladder combined with thermobonded construction.',
+    brand: 'KIPSTA',
+    category: 'Football',
+    price: 1099.90,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+  },
+  {
+    name: 'Adult Tennis Racket - TR160 Graph Black',
+    image: '/images/Racket.png',
+    description:
+      'Made for providing best handling for first practice sessions. It is a pure graphite racket with excellent manoeuvrability. Low inertia thanks to its weight (270g) and neutral balance (33 cm). Head size: 660cm².',
+    brand: 'ARTENGO',
+    category: 'Racket',
+    price: 929.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 12,
+  },
+  {
+    name: 'Adult Mini Basketball Hoop SK100 Dunkers - Red/Silver',
+    image: '/images/basketball.png',
+    description:
+      'This wall-mounted hoop is designed for both children and adults playing basketball indoors. Can be easily glued or attached to a wall or door.',
+    brand: 'TARMAK',
+    category: 'Basketball',
+    price: 699.99,
+    countInStock: 11,
+    rating: 5,
+    numReviews: 12,
+  },
+  {
+    name: 'Kids Skating Shoes Inline Fit 3 Black',
+    image: '/images/skate.png',
+    description:
+      'These inline skates will help your child learn how to get over obstacles, pick up speed and go on adventures, all while having fun!',
+    brand: 'OXELO',
+    category: 'Skates',
+    price: 2449.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 10,
+  },
+  {
+    name: '75 L Cricket Kit Bag Adult',
+    image: '/images/cricket.png',
+    description:
+      'Our team of designers and engineers have developed this cricket kit bag for adults to comfortably carry their full kit. 75 Liter volume to easily fit a complete adult kit inside.',
+    brand: 'FLX',
+    category: 'Cricket',
+    price: 1229.99,
+    countInStock: 5,
+    rating: 4,
+    numReviews: 12,
+  },
+  {
+    name: 'Mountain Bike Rockrider ST30 - Khaki Green',
+    image: '/images/cycle.png',
+    description:
+      'ST30 Cycle is Designed for leisure cycling on off-road trails and urban conditions. Enjoy Riding around with raised position and 10\' Raised stem at Handlebar. MTB steel frame, versatile all terrain MTB tyres.',
+    brand: 'ROCKRIDER',
+    category: 'Cycle',
+    price: 9999.99,
+    countInStock: 20,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    name: 'Table Tennis Table Leisure PPT100 Granite Grey',
+    image: '/images/tennis.png',
+    description:
+      'This table is designed for playing table tennis indoors. It features a compact design to be set up in a small space and is easy to store. Folding feet and net plus 2 separate tabletops make it easy to assemble / store',
+    brand: 'PONGORI',
+    category: 'Tennis',
+    price: 5999.99,
+    countInStock: 10,
+    rating: 4,
+    numReviews: 7,
+  },
+  {
+    name: 'Gym 5 kg Dumbbells Twin-Pack - Black',
+    image: '/images/dumbbell.png',
+    description:
+      'Are you looking for two 5 kg dumbbells for your daily toning sessions? Then look no further! These colourful dumbbells will look right at home in your home. 6 models to suit your needs, from 500 g to 5 kg! Poster with exercises included!',
+    brand: 'DOMYOS',
+    category: 'Gym',
+    price: 1099.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 15,
+  },
+  {
+    name: 'Resistance Tube with handles - 15 kg (High)',
+    image: '/images/tube.png',
+    description:
+      'We created this resistance elastic band for strengthening the muscles of the entire body using resistance. Lightweight and practical, a toning accessory that can be stored anywhere.',
+    brand: 'DOMYOS',
+    category: 'Gym',
+    price: 399.99,
+    countInStock: 10,
+    rating: 4.0,
+    numReviews: 5,
+  },
+  {
+    name: '35 kg Weight Training Elastic Band - Orange',
+    image: '/images/band.png',
+    description:
+      'This 35 kg weight training elastic band is perfect for providing the resistance necessary for you to progress at each training session. Improve your strength and muscle power, and develop your flexibility.',
+    brand: 'CORENGTH',
+    category: 'Gym',
+    price: 299.99,
+    countInStock: 10,
+    rating: 4.0,
+    numReviews: 14,
+  },
+  {
+    name: 'Swimming Goggles 100 Soft - Size S - Clear Lenses - Blue / Grey / Yellow',
+    image: '/images/glass.png',
+    description:
+      'Our teams developed these swimming goggles for beginner swimmers wanting to get into swimming in total freedom. Enjoy swimming with clear vision, thanks to the anti-fog treatment. Benefit from the best field of vision available within the range: over 160°',
+    brand: 'NABAIJI',
+    category: 'Swim',
+    price: 499.99,
+    countInStock: 15,
+    rating: 4.5,
+    numReviews: 9,
+  },
+];
+
+export default products;
