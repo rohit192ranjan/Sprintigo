@@ -1,7 +1,7 @@
 const products = [
   {
     name: 'Nike Juniper Trail 2',
-    image: '/images/Nikejuniper.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823020/Sprintigo/nikejuniper_fjmcqx.png',
     description:
       'Break away from the norm and dash up that tempting trail in the Nike Juniper Trail 2. Durable material on the top and tough traction on the bottom give you a consistent, confident ride for those off-road runs calling your name.',
     brand: 'NIKE',
@@ -13,7 +13,7 @@ const products = [
   },
   {
     name: 'Football Ball Match Size 5 FIFA Pro F900',
-    image: '/images/football.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823018/Sprintigo/football_rmhrbm.png',
     description:
       'We have made the F900 to FIFA Quality Pro standards for your training sessions and competitions by using thermobonding: there are no seams, giving a great feel. Laminated bladder combined with thermobonded construction.',
     brand: 'KIPSTA',
@@ -25,7 +25,7 @@ const products = [
   },
   {
     name: 'Adult Tennis Racket - TR160 Graph Black',
-    image: '/images/Racket.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823019/Sprintigo/racket_iwoy8m.png',
     description:
       'Made for providing best handling for first practice sessions. It is a pure graphite racket with excellent manoeuvrability. Low inertia thanks to its weight (270g) and neutral balance (33 cm). Head size: 660cm².',
     brand: 'ARTENGO',
@@ -37,7 +37,7 @@ const products = [
   },
   {
     name: 'Adult Mini Basketball Hoop SK100 Dunkers - Red/Silver',
-    image: '/images/basketball.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823018/Sprintigo/basketball_gybyjr.png',
     description:
       'This wall-mounted hoop is designed for both children and adults playing basketball indoors. Can be easily glued or attached to a wall or door.',
     brand: 'TARMAK',
@@ -49,7 +49,7 @@ const products = [
   },
   {
     name: 'Kids Skating Shoes Inline Fit 3 Black',
-    image: '/images/skate.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823020/Sprintigo/skate_hdf9td.png',
     description:
       'These inline skates will help your child learn how to get over obstacles, pick up speed and go on adventures, all while having fun!',
     brand: 'OXELO',
@@ -61,7 +61,7 @@ const products = [
   },
   {
     name: '75 L Cricket Kit Bag Adult',
-    image: '/images/cricket.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823018/Sprintigo/cricket_mzlt1c.png',
     description:
       'Our team of designers and engineers have developed this cricket kit bag for adults to comfortably carry their full kit. 75 Liter volume to easily fit a complete adult kit inside.',
     brand: 'FLX',
@@ -73,7 +73,7 @@ const products = [
   },
   {
     name: 'Mountain Bike Rockrider ST30 - Khaki Green',
-    image: '/images/cycle.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823019/Sprintigo/cycle_omyzpp.png',
     description:
       'ST30 Cycle is Designed for leisure cycling on off-road trails and urban conditions. Enjoy Riding around with raised position and 10\' Raised stem at Handlebar. MTB steel frame, versatile all terrain MTB tyres.',
     brand: 'ROCKRIDER',
@@ -85,7 +85,7 @@ const products = [
   },
   {
     name: 'Table Tennis Table Leisure PPT100 Granite Grey',
-    image: '/images/tennis.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823020/Sprintigo/tennis_xr0ar8.png',
     description:
       'This table is designed for playing table tennis indoors. It features a compact design to be set up in a small space and is easy to store. Folding feet and net plus 2 separate tabletops make it easy to assemble / store',
     brand: 'PONGORI',
@@ -97,7 +97,7 @@ const products = [
   },
   {
     name: 'Gym 5 kg Dumbbells Twin-Pack - Black',
-    image: '/images/dumbbell.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823019/Sprintigo/dumbbell_qs6rwd.png',
     description:
       'Are you looking for two 5 kg dumbbells for your daily toning sessions? Then look no further! These colourful dumbbells will look right at home in your home. 6 models to suit your needs, from 500 g to 5 kg! Poster with exercises included!',
     brand: 'DOMYOS',
@@ -109,7 +109,7 @@ const products = [
   },
   {
     name: 'Resistance Tube with handles - 15 kg (High)',
-    image: '/images/tube.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823021/Sprintigo/tube_jrjbm4.png',
     description:
       'We created this resistance elastic band for strengthening the muscles of the entire body using resistance. Lightweight and practical, a toning accessory that can be stored anywhere.',
     brand: 'DOMYOS',
@@ -121,7 +121,7 @@ const products = [
   },
   {
     name: '35 kg Weight Training Elastic Band - Orange',
-    image: '/images/band.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823018/Sprintigo/band_rzz2va.png',
     description:
       'This 35 kg weight training elastic band is perfect for providing the resistance necessary for you to progress at each training session. Improve your strength and muscle power, and develop your flexibility.',
     brand: 'CORENGTH',
@@ -133,7 +133,7 @@ const products = [
   },
   {
     name: 'Swimming Goggles 100 Soft - Size S - Clear Lenses - Blue / Grey / Yellow',
-    image: '/images/glass.png',
+    image: 'https://res.cloudinary.com/dqzopjgcs/image/upload/v1689823019/Sprintigo/glass_zv9jac.png',
     description:
       'Our teams developed these swimming goggles for beginner swimmers wanting to get into swimming in total freedom. Enjoy swimming with clear vision, thanks to the anti-fog treatment. Benefit from the best field of vision available within the range: over 160°',
     brand: 'NABAIJI',

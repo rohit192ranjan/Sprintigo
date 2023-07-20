@@ -86,6 +86,7 @@ const ProductScreen = () => {
             <Col md={3}>
               <ListGroup variant='flush'>
                 <ListGroup.Item>
+                  <h3 className='prodbrand'>{product.brand}</h3>
                   <h3>{product.name}</h3>
                 </ListGroup.Item>
                 <ListGroup.Item>
