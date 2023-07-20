@@ -8,17 +8,17 @@ const carouselData = [
   {
     id: 1,
     image: carousel1,
-    productId: '64b84f6f492aca46cb52401e', // Replace with the actual product ID or identifier for the first product.
+    productId: '64b8a85d962ba0fea0e46111', // Replace with the actual product ID or identifier for the first product.
   },
   {
     id: 2,
     image: carousel2,
-    productId: '64b84f6f492aca46cb52401f', // Replace with the actual product ID or identifier for the second product.
+    productId: '64b8a85d962ba0fea0e46112', // Replace with the actual product ID or identifier for the second product.
   },
   {
     id: 3,
     image: carousel3,
-    productId: '64b84f6f492aca46cb524020', // Replace with the actual product ID or identifier for the third product.
+    productId: '64b8a85d962ba0fea0e46113', // Replace with the actual product ID or identifier for the third product.
   },
 ];
 
